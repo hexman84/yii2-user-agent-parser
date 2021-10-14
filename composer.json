@@ -1,8 +1,6 @@
 {
-
-  "name": "nmdimas/yii2-user-agent-parser",
+  "name": "hexman84/yii2-user-agent-parser",
   "type": "yii2-extension",
-
   "description": "The user agent parser  for the Yii framework (Yii2)",
   "keywords": ["yii2", "user-agent", "parser","uaparser"],
   "license": "BSD-3-Clause",
@@ -19,7 +17,6 @@
       "email": "nmdimas@ukr.net"
     }
   ],
-
   "require": {
     "yiisoft/yii2": "*",
     "donatj/phpuseragentparser": "*"
